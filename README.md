@@ -91,4 +91,4 @@ Updates will include changelogs so if you are using a current image and it's upd
 | * weapon | all current weapon images |
 <br/>
   
-The RedM library is very large and some items are still named what they are and not in a category as such. Try searching the word that best descripbes what you are looking for if the search categories above are not finding what your need.
+The RedM library is very large and some items haven't been sorted into category yet. Try searching the word that best descripbes what you are looking for if the search categories above are not finding what your need.
