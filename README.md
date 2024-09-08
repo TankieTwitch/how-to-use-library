@@ -90,10 +90,5 @@ Updates will include changelogs so if you are using a current image and it's upd
 | * tool | All the tools |
 | * weapon | all current weapon images |
 <br/>
-<br/>  
-### The RedM library is very large and some items are still named what they are and not in a category as such. Try searching the word that best descripbes what you are looking for if the search categories above are not finding what your need.
-<br/>
-If the image you are looking for doesn't exist [Supporters](https://ko-fi.com/theiconlibraryproject) who donate a minimum of $10 to The Icon Library Project can make a 
-wishlist request via [Discord](https://discord.gg/7kMt8dFzka) 
-<br/>
-**Monthly Supporters** recieve 2 *exclusive* icon images of their choice per month which they can donate or keep private for their own server as a perk for supporting the library work.
+  
+The RedM library is very large and some items are still named what they are and not in a category as such. Try searching the word that best descripbes what you are looking for if the search categories above are not finding what your need.
