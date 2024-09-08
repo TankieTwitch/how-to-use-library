@@ -28,20 +28,28 @@ Updates will include changelogs so if you are using a current image and it's upd
 * Free FiveM Lore Images No Outline
 * Free FiveM Lore Images Outlined
 
-FOLDER CATEGORIES:
-A-G	H-W
-* Alcohol	* Hunting
-* Camping	* Jewelry
-* Crafting	* Licenses and IDs
-* Crime	* Mining
-* Drugs	* Misc
-* Electronic	* Moonshine
-* EMS	* PD
-* Farming	* Tools
-* Fishing	* Vapes
-* Food	* Weapons
-* Garage	
-
+##**FOLDER CATEGORIES:**
+* Alcohol
+* Camping
+* Crafting
+* Crime
+* Drugs
+* Electronic
+* EMS
+* Farming
+* Fishing
+* Food
+* Garage
+* Hunting
+* Jewelry
+* Licenses and IDs
+* Moonshine
+* Mining
+* Misc
+* PD
+* Tools
+* Vapes
+* Weapons
 #### FOLDER CATEGORIES:
 
 The FiveM library is fairly simple to navigate.
