@@ -65,7 +65,7 @@ This is a brief tutorial on how to use the libraries with your server
 **RedM** - has nearly 2400 individual images (at last count). The RedM folder is one large library. I have tried to organize the images by names so folder searching will be simplified. 
 
 > [!CAUTION]
-> The names of .pngs in the library can change without warning. Filing is based on my system. Best practice is to save a copy of the library on you desktop. IF an images gets updated it will be indicated in the changelog notes.
+> The names of .pngs in the library can change without warning. File naming is based on my system. Best practice is to save a copy of the library on you desktop. IF an images gets updated it will be indicated in the changelog notes.
 
 ## IMAGE CATEGORIES:
 | CATEGORY | Description |
