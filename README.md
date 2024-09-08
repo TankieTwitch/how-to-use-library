@@ -17,7 +17,7 @@ Updates will include changelogs so if you are using a current image and it's upd
 * The Icon Library Project's Discord Updates Channel will list all the files added to the libraries and changelog if there are any.\
 <br/>
 
-# BRIEF DESCRIPTION OF CURRENT ICON LIBRARY PROJECT ASSETS
+## BRIEF DESCRIPTION OF CURRENT ICON LIBRARY PROJECT ASSETS
 <br/>
 <br/>
 
@@ -91,4 +91,5 @@ Updates will include changelogs so if you are using a current image and it's upd
 | * weapon | all current weapon images |
 <br/>
   
-The RedM library is very large and some items haven't been sorted into category yet. Try searching the word that best descripbes what you are looking for if the search categories above are not finding what your need.
+> [!TIP]
+> The RedM library is very large and some items haven't been sorted into category yet. Try searching the word that best descripbes what you are looking for if the search categories above are not finding what your need.
