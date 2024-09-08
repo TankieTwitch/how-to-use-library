@@ -21,9 +21,9 @@ Updates will include changelogs so if you are using a current image and it's upd
 
 ![fivemlogoorangexsm](https://github.com/user-attachments/assets/010b6511-ca50-4ef5-970f-f93f5b1211b2)
 
-**FiveM** - is in folders so it is easier to search and only has 1200+ images per version. look in the most likely folder associated to what your are looking for If you can't find it there, try the Misc folder.
+**FiveM** - All images are separated into folders for easy searching. look in the most likely folder associated to the image you're looking for.<br/>
 
-#### **Folder Names:**
+#### **MAIN FOLDERS:**
 
 * Free FiveM Lore Images No Outline
 * Free FiveM Lore Images Outlined
