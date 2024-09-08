@@ -12,8 +12,8 @@ This is a brief tutorial on how to use the libraries with your server
 > [!NOTE]
 > Updates will include changelogs so if you are using a current image and it's updated in the library by name - this won't affect your scrips as long as you are not pulling _**directly**_ from the main library folder on your computer. Please don't do that.
 
-* If there is an image update, you can decide if you want to replace the old image or not by dragging a copy into your server image folder or script location and renaming it.
-* The Icon Library Project's Discord Updates Channel will list all the files added to the libraries and changelog if there are any.\
+* The Icon Library Project's Discord Updates Channel will list all the files added to the libraries and changelog if there are any.
+* If there is an image update, you can decide if you want to replace the old image by dragging a copy into your server image folder or script location and renaming it.
 <br/>
 
 ## BRIEF DESCRIPTION OF CURRENT ICON LIBRARY PROJECT ASSETS
