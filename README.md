@@ -69,7 +69,9 @@ Updates will include changelogs so if you are using a current image and it's upd
 ### IMAGE CATEGORIES:
 
 ## IMAGE CATEGORIES:
-* a_c - These are the ped model names from the game database
+| CATEGORY | Description |
+| --- | --- |
+| * a_c | These are the ped model names from the game database |
 * alcohol - Alcohol drinks and bottles
 * ammo - All ammo types
 * clothes - All clothing items
