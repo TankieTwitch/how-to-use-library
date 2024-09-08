@@ -17,9 +17,13 @@ Updates will include changelogs so if you are using a current image and it's upd
 * The Icon Library Project's Discord Updates Channel will list all the files added to the libraries and changelog if there are any.\
 <br/>
 
-## RESOURCES IMAGE LIBRARIES
+# RESOURCES IMAGE LIBRARIES
 
-![fivemlogoorangexsm](https://github.com/user-attachments/assets/010b6511-ca50-4ef5-970f-f93f5b1211b2)
+<img align="left" width="72" src="https://github.com/user-attachments/assets/010b6511-ca50-4ef5-970f-f93f5b1211b2" />
+
+# FIVEM 
+
+Some text
 
 **FiveM** - All images are separated into folders for easy searching. look in the most likely folder associated to the image you're looking for.<br/>
 
@@ -49,12 +53,12 @@ Updates will include changelogs so if you are using a current image and it's upd
 * Tools
 * Vapes
 * Weapons
+
 <br/>
 <br/>
-<br/>
-<br/>
----
+
 ![redmlogoxsm](https://github.com/user-attachments/assets/62adc4a1-e9c9-47f5-997e-c46c1f83e586)
+
 
 
 <br/>
