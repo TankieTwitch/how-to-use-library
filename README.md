@@ -14,11 +14,12 @@ This is a brief tutorial on how to use the libraries with your server
 Updates will include changelogs so if you are using a current image and it's updated in the library by name - this won't affect your scrips as long as you are not pulling _**directly**_ from the main library folder on your computer. Please don't do that.
 
 * If there is an image update, you can decide if you want to replace the old image or not by dragging a copy into your server image folder or script location and renaming it.
-*   The Icon Library Project's Discord Updates Channel will list all the files added to the libraries and changelog if there are any.\
+* The Icon Library Project's Discord Updates Channel will list all the files added to the libraries and changelog if there are any.\
+<br/>
 
-## LIBRARIES
+## RESOURCES IMAGE LIBRARIES
 
-[![alt text](https://github.com/user-attachments/assets/2ae684bd-e449-49ce-beb3-929b74d30bc2)](<./#FiveM Logo OrangeSM>)
+![fivemlogoorangexsm](https://github.com/user-attachments/assets/010b6511-ca50-4ef5-970f-f93f5b1211b2)
 
 **FiveM** - is in folders so it is easier to search and only has 1200+ images per version. look in the most likely folder associated to what your are looking for If you can't find it there, try the Misc folder.
 
