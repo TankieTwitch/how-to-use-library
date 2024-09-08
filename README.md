@@ -35,31 +35,34 @@ If you can't find it there, try the Misc folder.
 <summary> Click for Drop-down of Sub-Folder Names</summary>
 
 ### FOLDER CATEGORIES:
-|         A-H                           |         J-W          |
+|         A-G                           |         H-W          |
 |        :---:                          |        :---:         |
-|  * Alcohol (Bottles and Mixed Drinks) |  * Jewelry           |
-|  * Camping                            |  * Licenses and IDs  |
-|  * Crafting                           |  * Mining            |
-|  * Crime                              |  * Misc              |
-|  * Drugs                              |  * Moonshine         |
-|  * Electronic                         |  * PD                |
-|  * EMS                                |  * Tools             |
-|  * Farming                            |  * Vapes             |
-|  * Fishing                            |  * Weapon Tints      |
-|  * Food                               |  * Weapons           |
-|  * Garage                             |    |
-|  * Hunting                            |    |
+|  * Alcohol                            |  * Hunting           |
+|  * Camping                            |  * Jewelry           |
+|  * Crafting                           |  * Licenses and IDs  |
+|  * Crime                              |  * Mining            |
+|  * Drugs                              |  * Misc              |
+|  * Electronic                         |  * Moonshine         |
+|  * EMS                                |  * PD                |
+|  * Farming                            |  * Tools             |
+|  * Fishing                            |  * Vapes             |
+|  * Food                               |  * Weapons           | 
+|  * Garage                             |                      |                     
 
 </details>
 <br/>
-The FiveM library is fairly simple to navigate. Support is available via **Discord**
+The FiveM library is fairly simple to navigate.
 <br/>
 <br/>
 <br/>
 <br/>
 
-<a id="RedM Logo RedSM" href="#RedM Logo RedSM"><img alt="alt text" src="https://github.com/user-attachments/assets/646df848-409a-4c5c-85f0-9331548f141c" /></a><br/>
-**RedM** - has nearly 2400 individual images (at last count). The RedM folder is one large library. I have tried to organize the images by names so folder searching will be simplified. Do not use the names in the library for your script as they often times have changed to make it easier to locate images in folder search.
+<a id="RedM Logo RedSM" href="#RedM Logo RedSM"><img alt="alt text" src="https://github.com/user-attachments/assets/646df848-409a-4c5c-85f0-9331548f141c" /></a>
+<br/>
+<br/>
+**RedM** - has nearly 2400 individual images (at last count). The RedM folder is one large library. I have tried to organize the images by names so folder 
+searching will be simplified. Do not use the names in the library for your script as they often times have changed to make it easier to locate images in folder 
+search.
 
 <details>
 
@@ -69,7 +72,7 @@ The FiveM library is fairly simple to navigate. Support is available via **Disco
 ### IMAGE CATEGORIES:
 |                 CATEGORY                      |         DESCRIPTION                                                                                   |
 |                  :---:                        |         :---:                                                                                         |
-|                 * a_c                         |  This is the ped model names from ped model [database](https://www.rdr2mods.com/wiki/peds/)           |
+|                 * a_c                         |  These are the ped model names from ped model [database](https://www.rdr2mods.com/wiki/peds/)         |
 |                 * alcohol                     |  Alcohol drinks and bottles                                                                           |
 |                 * ammo                        |  All ammo types                                                                                       |
 |                 * clothes                     |  Assorted Clothing items                                                                              |
@@ -92,10 +95,13 @@ The FiveM library is fairly simple to navigate. Support is available via **Disco
 
 </details>
 <br/>
-The RedM library is very large and some items are still named what they are and not in a category as such. Try searching the word that best descripbes what you are looking for if the search categories above are not finding what your need.
+The RedM library is very large and some items are still named what they are and not in a category as such. Try searching the word that best descripbes what you 
+are looking for if the search categories above are not finding what your need.
 <br/>
 <br/>
 <br/>
 <br/>
 
-If the image you are looking for doesn't exist [**Supporters**](https://ko-fi.com/theiconlibraryproject) who donate a minimum of $10 to The Icon Library Project can make a wish-list request via [**Discord**](https://discord.gg/7kMt8dFzka) - Monthly Supporters recieve 2 *exclusive* icon images/month for their support.
+If the image you are looking for doesn't exist [**Supporters**](https://ko-fi.com/theiconlibraryproject) who donate a minimum of $10 to The Icon Library 
+Project can make a wish-list request via [**Discord**](https://discord.gg/7kMt8dFzka) - Monthly Supporters recieve 2 *exclusive* icon images/month for their 
+support.
