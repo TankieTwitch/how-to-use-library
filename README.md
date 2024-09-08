@@ -49,11 +49,11 @@ Updates will include changelogs so if you are using a current image and it's upd
 * Tools
 * Vapes
 * Weapons
-
-The FiveM library is fairly simple to navigate.
 <br/>
 <br/>
-
+<br/>
+<br/>
+---
 ![redmlogoxsm](https://github.com/user-attachments/assets/62adc4a1-e9c9-47f5-997e-c46c1f83e586)
 
 
