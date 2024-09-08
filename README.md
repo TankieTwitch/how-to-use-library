@@ -64,9 +64,6 @@ This is a brief tutorial on how to use the libraries with your server
 
 **RedM** - has nearly 2400 individual images (at last count). The RedM folder is one large library. I have tried to organize the images by names so folder searching will be simplified. Do not use the names in the library for your script as they often times have changed to make it easier to locate images in folder search.
 
-
-### IMAGE CATEGORIES:
-
 ## IMAGE CATEGORIES:
 | CATEGORY | Description |
 | --- | --- |
