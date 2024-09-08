@@ -15,7 +15,10 @@ Updates will include changelogs so if you are using a current image and it's upd
 * If there is an image update, you can decide if you want to replace the old image or not by dragging a copy into your server image folder or script location and renaming it.
 
 * The Icon Library Project's Discord Updates Channel will list all the files added to the libraries and changelog if there are any.   <br />
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 # LIBRARIES
 <a id="FiveM Logo OrangeSM" href="#FiveM Logo OrangeSM"><img alt="alt text" src="https://github.com/user-attachments/assets/2ae684bd-e449-49ce-beb3-929b74d30bc2" /></a>
@@ -49,41 +52,50 @@ If you can't find it there, try the Misc folder.
 
 </details>
 <br/>
-The FiveM library is fairly simple to navigate. Support is available via [Discord](https://discord.gg/7kMt8dFzka)
+The FiveM library is fairly simple to navigate. Support is available via **Discord**
+<br/>
+<br/>
 <br/>
 <br/>
 
-<a id="RedM Logo RedSM" href="#RedM Logo RedSM"><img alt="alt text" src="https://github.com/user-attachments/assets/646df848-409a-4c5c-85f0-9331548f141c" /></a>
-**RedM** - has nearly 2400 individual images (at last count)
+<a id="RedM Logo RedSM" href="#RedM Logo RedSM"><img alt="alt text" src="https://github.com/user-attachments/assets/646df848-409a-4c5c-85f0-9331548f141c" /></a><br/>
+**RedM** - has nearly 2400 individual images (at last count). The RedM folder is one large library. I have tried to organize the images by names so folder searching will be simplified. Do not use the names in the library for your script as they often times have changed to make it easier to locate images in folder search.
 
-# Suggested search categories:
+<details>
 
-name of the item always a good first attempt
+<summary> Click for Drop-down of suggested search categories and discriptions</summary>
+<br/>
 
-consumable - for all food, drinks, herbs, medicines, baits and alcohol
+### IMAGE CATEGORIES:
+|                 CATEGORY                      |         DESCRIPTION                                                                                   |
+|                  :---:                        |         :---:                                                                                         |
+|                 * a_c                         |  This is the ped model names from ped model [database](https://www.rdr2mods.com/wiki/peds/)           |
+|                 * alcohol                     |  Alcohol drinks and bottles                                                                           |
+|                 * ammo                        |  All ammo types                                                                                       |
+|                 * clothes                     |  Assorted Clothing items                                                                              |
+|                 * collector                   |  Cigarette Collector Cards Assorted - Not Complete yet                                                |
+|                 * consumable                  |  Everything you can eat, drink, smoke and use                                                         |
+|                 * furniture (600-700 items?)  |  This is a large section, at some point I hope to add a discription to name                           |
+|                 * hair                        |  Grooming related images - mostly male hair an beard care                                             |
+|                 * herb                        |  Mostly things you can plant or harvest and icons related to herbs                                    |
+|                 * lumber                      |  Lumber related images                                                                                |
+|                 * mining                      |  Mining realated images                                                                               |
+|                 * meat                        |  all the raw and cooked meats (including fish)                                                        |
+|                 * tobacco                     |  Tobacco and tobacco products                                                                         |
+|                 * provision                   |  Collections of Heirloom Items, Money, Jewelry, Arrowheads, Eggs, Beaks and More                      |
+|                 * resource                    |  Horns, Pelts, items used for crafting, resources                                                     |
+|                 * seed                        |  At last count - 82 varieties of seed packs that each correspond to a consumable_herbs                |
+|                 * tool                        |  All the tools                                                                                        |
+|                 * weapon                      |  All current weapon images                                                                            |
+|                 * weapon_melee                |  All current melee weapons                                                                            |
 
-resource - for all crafting ingredients, collectable beaks, eggs, feathers, horns, teeth, gems, mining resources skins and pelts - and anything else I considered a resource at the time.
 
-provision - for collectable items like arrowheads, heirloom items, coins, jewelry, flowers, and so on
+</details>
+<br/>
+The RedM library is very large and some items are still named what they are and not in a category as such. Try searching the word that best descripbes what you are looking for if the search categories above are not finding what your need.
+<br/>
+<br/>
+<br/>
+<br/>
 
-furniture - for most placeable furniture items including taxidermy animals
-
-animal - pets and livestock
-
-collector - all cigarette collectable cards *NOTE - at this time I still have a few to complete
-
-clothing - self explanatory
-
-seed - all seed packs (there are 82 different seed packs at last count)
-
-tool - all available tool items
-
-weapon - all weapons
-
-melee - all melee weapons
-
-bug - all bugs
-
-indigenous - most added native items can be found by searching this word
-
-If you find what you need [**Supporters**](https://ko-fi.com/theiconlibraryproject) who donate a minimum of $10 to The Icon Library Project can make a wish-list request via [**Discord**](https://discord.gg/7kMt8dFzka) - Monthly Supporters recieve 2 *exclusive* icon images/month for their support.
+If the image you are looking for doesn't exist [**Supporters**](https://ko-fi.com/theiconlibraryproject) who donate a minimum of $10 to The Icon Library Project can make a wish-list request via [**Discord**](https://discord.gg/7kMt8dFzka) - Monthly Supporters recieve 2 *exclusive* icon images/month for their support.
