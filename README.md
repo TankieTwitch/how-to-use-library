@@ -24,7 +24,6 @@ Updates will include changelogs so if you are using a current image and it's upd
 
 # FIVEM - 2 VERSIONS
 <br/>
-<br/>
 
 **FiveM** - All images are separated into folders for easy searching. look in the most likely folder associated to the image you're looking for.<br/>
 
@@ -60,7 +59,6 @@ Updates will include changelogs so if you are using a current image and it's upd
 <img align="left" width="72" src="https://github.com/user-attachments/assets/62adc4a1-e9c9-47f5-997e-c46c1f83e586" />
 
 # REDM - SINGLE VERSION
-<br/>
 <br/>
 
 **RedM** - has nearly 2400 individual images (at last count). The RedM folder is one large library. I have tried to organize the images by names so folder searching will be simplified. Do not use the names in the library for your script as they often times have changed to make it easier to locate images in folder search.
