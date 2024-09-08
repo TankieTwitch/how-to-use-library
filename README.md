@@ -72,23 +72,23 @@ Updates will include changelogs so if you are using a current image and it's upd
 | CATEGORY | Description |
 | --- | --- |
 | * a_c | These are the ped model names from the game database |
-* alcohol - Alcohol drinks and bottles
-* ammo - All ammo types
-* clothes - All clothing items
-* collector - All Cigarette Cards **NOTE:** In Progress
-* consumable - Everything you can eat, drink, smoke and use up
-* furniture - 600-700+ This section will be re-visited in the future, possible object model names time depending
-* hair - Grooming related images
-* herb - Mostly things you can plant, pick or harvest and icons related to herbs
-* lumber - Lumber related images
-* mining - Mining related images
-* meat - all the raw and cooked meats including fish
-* tobacco - Tobacco and tobacco related products
-* provisions - Collections of heirloom items, money, jewelry, arrowheads, eggs, beaks and more    
-* respirce - Horns, pelts, items used for crafting, raw resources and parts
-* seed - At last count, 82 varieties of seed packs corresponding to a consumable_herb item or farm product
-* tool - All the tools
-* weapon - all current weapon images
+| * alcohol | Alcohol drinks and bottles |
+| * ammo | All ammo types |
+| * clothes | All clothing items |
+| * collector | All Cigarette Cards **NOTE:** In Progress |
+| * consumable | Everything you can eat, drink, smoke and use up |
+| * furniture | 600-700+ This section will be re-visited in the future, possible object model names time depending |
+| * hair | Grooming related images |
+| * herb | Mostly things you can plant, pick or harvest and icons related to herbs |
+| * lumber | Lumber related images |
+| * mining | Mining related images |
+| * meat | all the raw and cooked meats including fish |
+| * tobacco | Tobacco and tobacco related products |
+| * provisions | Collections of heirloom items, money, jewelry, arrowheads, eggs, beaks and more |    
+| * respirce | Horns, pelts, items used for crafting, raw resources and parts |
+| * seed | At last count, 82 varieties of seed packs corresponding to a consumable_herb item or farm product |
+| * tool | All the tools |
+| * weapon | all current weapon images |
 
 <br/>
 <br/>  
