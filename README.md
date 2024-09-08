@@ -66,29 +66,28 @@ Updates will include changelogs so if you are using a current image and it's upd
 **RedM** - has nearly 2400 individual images (at last count). The RedM folder is one large library. I have tried to organize the images by names so folder searching will be simplified. Do not use the names in the library for your script as they often times have changed to make it easier to locate images in folder search.
 
 
-#### IMAGE CATEGORIES:
+### IMAGE CATEGORIES:
 
-##IMAGE CATEGORIES:
-    CATEGORY	        DESCRIPTION
-    * a_c ------------  These are the ped model names from ped model database
-    * alcohol --------  Alcohol drinks and bottles
-    * ammo -----------  All ammo types
-    * clothes --------  Assorted Clothing items
-    * collector	Cigarette Collector Cards Assorted - Not Complete yet
-    * consumable	Everything you can eat, drink, smoke and use
-    * furniture (600-700 items?)	This is a large section, at some point I hope to add a discription to name
-    * hair	Grooming related images - mostly male hair an beard care
-    * herb	Mostly things you can plant or harvest and icons related to herbs
-    * lumber	Lumber related images
-    * mining	Mining realated images
-    * meat	all the raw and cooked meats (including fish)
-    * tobacco	Tobacco and tobacco products
-    * provision	Collections of Heirloom Items, Money, Jewelry, Arrowheads, Eggs, Beaks and More
-    * resource	Horns, Pelts, items used for crafting, resources
-    * seed	At last count - 82 varieties of seed packs that each correspond to a consumable_herbs
-    * tool	All the tools
-    * weapon - All current weapon images
-* weapon_melee	All current melee weapons
+## IMAGE CATEGORIES:
+* a_c - These are the ped model names from the game database
+* alcohol - Alcohol drinks and bottles
+* ammo - All ammo types
+* clothes - All clothing items
+* collector - All Cigarette Cards **NOTE:** In Progress
+* consumable - Everything you can eat, drink, smoke and use up
+* furniture - 600-700+ This section will be re-visited in the future, possible object model names time depending
+* hair - Grooming related images
+* herb - Mostly things you can plant, pick or harvest and icons related to herbs
+* lumber - Lumber related images
+* mining - Mining related images
+* meat - all the raw and cooked meats including fish
+* tobacco - Tobacco and tobacco related products
+* provisions - Collections of heirloom items, money, jewelry, arrowheads, eggs, beaks and more    
+* respirce - Horns, pelts, items used for crafting, raw resources and parts
+* seed - At last count, 82 varieties of seed packs corresponding to a consumable_herb item or farm product
+* tool - All the tools
+* weapon - all current weapon images
+
 <br/>
 <br/>  
 The RedM library is very large and some items are still named what they are and not in a category as such. Try searching the word that best descripbes what you are looking for
