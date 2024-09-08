@@ -17,7 +17,7 @@ Updates will include changelogs so if you are using a current image and it's upd
 * The Icon Library Project's Discord Updates Channel will list all the files added to the libraries and changelog if there are any.\
 <br/>
 
-# BRIEF DESCRIPTION OF ASSETS
+# BRIEF DESCRIPTION OF CURRENT ICON LIBRARY PROJECT ASSETS
 <br/>
 <br/>
 
