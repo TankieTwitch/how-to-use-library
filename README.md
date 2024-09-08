@@ -23,12 +23,11 @@ Updates will include changelogs so if you are using a current image and it's upd
 
 **FiveM** - All images are separated into folders for easy searching. look in the most likely folder associated to the image you're looking for.<br/>
 
-#### **MAIN FOLDERS:**
-
+### **MAIN FOLDERS:**
 * Free FiveM Lore Images No Outline
 * Free FiveM Lore Images Outlined
 
-##**FOLDER CATEGORIES:**
+## **FOLDER CATEGORIES:**
 * Alcohol
 * Camping
 * Crafting
@@ -50,7 +49,6 @@ Updates will include changelogs so if you are using a current image and it's upd
 * Tools
 * Vapes
 * Weapons
-#### FOLDER CATEGORIES:
 
 The FiveM library is fairly simple to navigate.
 <br/>
