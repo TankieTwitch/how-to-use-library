@@ -9,7 +9,7 @@ This is a brief tutorial on how to use the libraries with your server
 2. Add the image you want to use to your server image folder OR the script folder if that is where the image files you wish to replace are located.
 3. Name the icon image so it correspond to the image you are replacing or the name you have entered in the database you are adding them to - the .png name MUST match the name of the item in your script and database (I'm not a code person, but I know it is case sensitive so make sure they match)
 
-#### **PLEASE NOTE:**
+### **PLEASE NOTE:**
 
 Updates will include changelogs so if you are using a current image and it's updated in the library by name - this won't affect your scrips as long as you are not pulling _**directly**_ from the main library folder on your computer. Please don't do that.
 
@@ -27,7 +27,7 @@ Updates will include changelogs so if you are using a current image and it's upd
 * Free FiveM Lore Images No Outline
 * Free FiveM Lore Images Outlined
 
-## **FOLDER CATEGORIES:**
+### **FOLDER CATEGORIES:**
 * Alcohol
 * Camping
 * Crafting
@@ -54,7 +54,9 @@ The FiveM library is fairly simple to navigate.
 <br/>
 <br/>
 
-[![alt text](https://github.com/user-attachments/assets/646df848-409a-4c5c-85f0-9331548f141c)](<./#RedM Logo RedSM>)\
+![redmlogoxsm](https://github.com/user-attachments/assets/62adc4a1-e9c9-47f5-997e-c46c1f83e586)
+
+
 <br/>
 **RedM** - has nearly 2400 individual images (at last count). The RedM folder is one large library. I have tried to organize the images by names so folder searching will be simplified. Do not use the names in the library for your script as they often times have changed to make it easier to locate images in folder search.
 
