@@ -59,7 +59,7 @@ This is a brief tutorial on how to use the libraries with your server
 
 <img align="left" width="72" src="https://github.com/user-attachments/assets/03bd8da2-6c3e-4512-b180-faf3f4354ed6"/>
 
-# REDM - SINGLE VERSION
+# REDM RESOURCE ICONS
 <br/>
 
 **RedM** - has nearly 2400 individual images (at last count). The RedM folder is one large library. I have tried to organize the images by names so folder searching will be simplified. 
