@@ -66,29 +66,34 @@ This is a brief tutorial on how to use the libraries with your server
 
 > [!CAUTION]
 > The names of .pngs in the library can change without warning. File naming is based on my system. Best practice is to save a copy of the library on you desktop. IF an images gets updated it will be indicated in the changelog notes.
-
+<br/>
 ## IMAGE CATEGORIES:
 | CATEGORY | Description |
 | --- | --- |
 | * a_c | These are the ped model names from the game database |
-| * alcohol | Alcohol drinks and bottles |
 | * ammo | All ammo types |
-| * clothes | All clothing items |
+| * beekeeper | Bees and associated items |
+| * clothing bags watches | All clothing items and assorted personal props |
 | * collector | All Cigarette Cards **NOTE:** In Progress |
-| * consumable | Everything you can eat, drink, smoke and use up |
+| * consumable | Everything you can eat, drink, smoke and consume |
+| * documents | Assorted books, papers and document items |
+| * fishing and trapping | fishbaits and traps for trapping game |
 | * furniture | 600-700+ This section will be re-visited in the future, possible object model names time depending |
-| * hair | Grooming related images |
-| * herb | Mostly things you can plant, pick or harvest and icons related to herbs |
+| * grooming | Grooming related images and makeup |
+| * gunsmith | Parts and molds |
+| * jewelry | Assorted jewlery |
 | * lumber | Lumber related images |
-| * mining | Mining related images |
-| * meat | all the raw and cooked meats including fish |
-| * tobacco | Tobacco and tobacco related products |
+| * misc farming and ranching | Assorted images |
+| * music_instruments | Assorted musical instruments |
+| * police | Police items |
 | * provisions | Collections of heirloom items, money, jewelry, arrowheads, eggs, beaks and more |    
-| * respirce | Horns, pelts, items used for crafting, raw resources and parts |
-| * seed | At last count, 82 varieties of seed packs corresponding to a consumable_herb item or farm product |
-| * tool | All the tools |
-| * weapon | all current weapon images |
+| * resources | Horns, pelts, items used for crafting, raw resources and parts |
+| * seeds | At last count, 82 varieties of seed packs corresponding to a consumable_herb item or farm product |
+| * server bits | menu icons and reward icons |
+| * survival storage | Another misc folder of things |
+| * tools | Every tool for every job |
+| * weapons | All the weapons |
 <br/>
   
 > [!TIP]
-> The RedM library is very large and some items haven't been sorted into category yet. Try searching the word that best descripbes what you are looking for if the search categories above are not finding what your need.
+> Some folders are still very large. Consumables has nearly 600 images, try searching the word that best descripbes what you are looking for.
