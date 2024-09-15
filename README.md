@@ -74,7 +74,7 @@ This is a brief tutorial on how to use the libraries with your server
 | * ammo | All ammo types |
 | * beekeeper | Bees and associated items |
 | * clothing bags watches | All clothing items and assorted personal props |
-| * collector | All Cigarette Cards **NOTE:** In Progress |
+| * collector | All Cigarette Cards, Fossils |
 | * consumable | Everything you can eat, drink, smoke and consume |
 | * documents | Assorted books, papers and document items |
 | * fishing and trapping | fishbaits and traps for trapping game |
