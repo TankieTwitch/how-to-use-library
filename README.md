@@ -5,7 +5,7 @@
 
 This is a brief tutorial on how to use the libraries with your server
 
-1. Download the library of your choice and keep it in a separate area on your computer. You will replace this folder every time that library is updated.
+1. Download the library of your choice and keep it in a separate area on your computer. You will replace this folder every time that library is updated. I recommend using GitHub for Desktop so you can fork the directory and use fetch anytime I update the folders. It's fast and easy and if you aren't familiar with GitHub I recommend Youtube!
 2. Add the image you want to use to your server image folder OR the script folder if that is where the image files you wish to replace are located.
 3. Name the icon image so it correspond to the image you are replacing or the name you have entered in the database you are adding them to - the .png name MUST match the name of the item in your script and database (I'm not a code person, but I know it is case sensitive so make sure they match)
 
