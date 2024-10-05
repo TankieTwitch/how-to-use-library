@@ -87,7 +87,8 @@ This is a brief tutorial on how to use the libraries with your server
 | * music_instruments | Assorted musical instruments |
 | * police | Police items |
 | * provisions | Collections of heirloom items, money, jewelry, arrowheads, eggs, beaks and more |    
-| * resources | Horns, pelts, items used for crafting, raw resources and parts |
+| * resources | items used for crafting, raw resources and parts |
+| * resources_animal | Horns, pelts, animal related items |
 | * seeds | At last count, 82 varieties of seed packs corresponding to a consumable_herb item or farm product |
 | * server bits | menu icons and reward icons |
 | * survival storage | Another misc folder of things |
