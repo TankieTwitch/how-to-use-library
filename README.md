@@ -70,31 +70,43 @@ This is a brief tutorial on how to use the libraries with your server
 ## IMAGE CATEGORIES:
 | CATEGORY | Description |
 | --- | --- |
-| * a_c | These are the ped model names from the game database |
+| * a_c_animals | These are the ped model names from the game database but includes some that are not spawnable peds example: a_c_crab_blue.png |
 | * ammo | All ammo types |
+| * backpacks-storage | backpack images and assorted box and trunk storage images |
 | * beekeeper | Bees and associated items |
 | * clothing bags watches | All clothing items and assorted personal props |
-| * collector | All Cigarette Cards, Fossils |
-| * consumable | Everything you can eat, drink, smoke and consume |
+| * collector-items | Animal teeth, arrowheads, beaks, cigarette-cards, eggs, feathers, fossils, orchids and uncategorized collectables |
+| * consumable-alcohol | Alcohol bottles and drinks |
+| * consumable-brewing | Alcohol brewing images for moonshine including malts and yeast |
+| * consumable-food | All Food images |
+| * consumable-medical | Medicine images for people |
+| * consumable-plants | All herbs and plant images |
+| * consumable-smoking | All smoking related items |
 | * documents | Assorted books, papers and document items |
-| * fishing and trapping | fishbaits and traps for trapping game |
-| * furniture | 600-700+ This section will be re-visited in the future, possible object model names time depending |
+| * drugs | Assortment of drug images |
+| * fishing-trapping-hunting | fishbaits and traps and hunting baits |
+| * furniture | 600-700+ currently labeled for GUM script, images of furnishings from base game |
 | * grooming | Grooming related images and makeup |
-| * gunsmith | Parts and molds |
-| * jewelry | Assorted jewlery |
-| * lumber | Lumber related images |
-| * misc farming and ranching | Assorted images |
+| * gunsmith | Parts, molds, bullet boxes and gun oil |
+| * jewelry | Bracelets (in progress), Earrings, Necklaces, Rings |
+| * materials-crafting | collection of resources for crafting a variety of items |
+| * materials-lumber | Lumber related images |
+| * materials-mining | Mining related images |
+| * misc-farming-ranching | Farming feed, poop, Fertilizers, tools |
+| * money | money_clip, blood_money_clip, Assorted Coins |
 | * music_instruments | Assorted musical instruments |
 | * police | Police items |
 | * provisions | Collections of heirloom items, money, jewelry, arrowheads, eggs, beaks and more |    
-| * resources | items used for crafting, raw resources and parts |
-| * resources_animal | Horns, pelts, animal related items |
-| * seeds | At last count, 82 varieties of seed packs corresponding to a consumable_herb item or farm product |
+| * resources-animal-skins-pelts-parts | Hearts, Horns, Claws, Animal Parts, Pelts, Skins, Legendary versions of all items |
+| * resources-animal-skins-pelts-parts-generic | Generic versions of  pelts, hearts, and snake skins |
+| * seeds | At last count, 92 varieties of seed packs corresponding to a consumable_herb item or farm product |
 | * server bits | menu icons and reward icons |
-| * survival storage | Another misc folder of things |
+| * spooni | icon images for spooni pack items (in progress) |
+| * trinkets-talismans-other-bits | Trinkets, Talismans and images that are uncategorized |
 | * tools | Every tool for every job |
 | * weapons | All the weapons |
+
 <br/>
   
 > [!TIP]
-> Some folders are still very large. Consumables has nearly 600 images, try searching the word that best descripbes what you are looking for.
+> Some folders are still very large. Hopefully by going by the names of the folders you can narrow down your search. Enjoy!
